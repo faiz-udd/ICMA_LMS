@@ -1,6 +1,4 @@
-Here’s a **README.md** file for your **LMS (Learning Management System)** project:  
 
----
 
 # 📚 LMS (Learning Management System)
 
